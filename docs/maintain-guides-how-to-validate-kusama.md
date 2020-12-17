@@ -89,7 +89,7 @@ Finally, run this command to install the necessary dependencies for compiling an
 node software.
 
 ```sh
-sudo apt install make clang pkg-config libssl-dev build-essential
+sudo apt install make clang pkg-config libssl-dev build-essential protobuf-compiler
 ```
 
 Note - if you are using OSX and you have [Homebrew](https://brew.sh) installed, you can issue the
